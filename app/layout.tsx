@@ -1,4 +1,5 @@
 import "./globals.css";
+import "../public/css/animation.css"
 
 export const metadata = {
   title: "Rida Rafi Syed - Full Stack Devloper",
